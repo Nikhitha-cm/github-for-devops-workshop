@@ -1,0 +1,22 @@
+git status
+rm testing.py
+ls
+git restore testing.py
+git restore testing.py
+ls
+ls -a
+ls -a
+python testing.py
+rm testing.py
+git restore testing.py
+git status
+git restore testing.py
+git status
+git add .
+git commit -m "Added testing file"
+git status
+git log
+rm testing.py
+git restore testing.py
+git history
+history
